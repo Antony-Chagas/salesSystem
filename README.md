@@ -69,25 +69,25 @@ php artisan migrate
 
 ## Paginas do projeto
 
-### Litas de vendedores:
+### `Litas de vendedores:`
 ![image](https://github.com/Antony-Chagas/salesSystem/assets/104728389/8396846c-78ee-426e-9de3-e9d2d05ccbda)
 
-### Vendas dos vendedores:
+### `Vendas dos vendedores:`
 ![image](https://github.com/Antony-Chagas/salesSystem/assets/104728389/29d54f65-3a8d-406f-b552-eefc2f9c5a83)
 
-### Vendedor:
-* Editar 
+### `Vendedor:`
+* `Editar` 
 ![image](https://github.com/Antony-Chagas/salesSystem/assets/104728389/99323925-0a2b-4ab5-ba51-94ec553ffe51)
-* Criar
+* `Criar`
 ![image](https://github.com/Antony-Chagas/salesSystem/assets/104728389/6499ad89-b01a-4feb-9b2d-9aa19653e456)
-* Deletar
+* `Deletar`
 ![image](https://github.com/Antony-Chagas/salesSystem/assets/104728389/ff747b84-aa04-4644-a43e-6fa9e9f88569)
 
-### Vendas
-* Editar
+### `Vendas`
+* `Editar`
 ![image](https://github.com/Antony-Chagas/salesSystem/assets/104728389/ba809475-4620-4d06-b386-7a7a84088663)
-* Criar
+* `Criar`
 ![image](https://github.com/Antony-Chagas/salesSystem/assets/104728389/3eaf1b09-87a1-4b5b-bf5f-fdf4f4e0096a)
-* Deletar
+* `Deletar`
 ![image](https://github.com/Antony-Chagas/salesSystem/assets/104728389/9bc2be89-5422-4ef0-a4c3-32ded5b0a650)
 
