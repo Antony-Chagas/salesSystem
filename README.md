@@ -4,7 +4,7 @@ Projeto para processo seletivo da vaga de programador Junior na empresa Tray.
 
 ## Indice
 * [Índice](#índice)
-* Descrição do Projeto.
+* [Descrição do Projeto](#Descrição do Projeto) .
 * Tecnologias utilizadas
 * Funcionalidades do projeto
 * Modo de usar
