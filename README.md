@@ -30,7 +30,7 @@ Projeto para processo seletivo da vaga de programador Júnior na empresa Tray.
 * Criar, deletar, atualizar e visualizar vendas realizadas.
 * Criar, deletar, atualizar e visualizar vendedores.
 
-## Como de usar a aplicação ⚙️
+## Como usar a aplicação ⚙️
 
 ### O que deve ter na sua máquina:
 * **XAMPP**: Você pode fazer o download pelo link https://www.apachefriends.org/download.html <br>
