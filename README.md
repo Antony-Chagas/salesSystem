@@ -1,6 +1,6 @@
 # Sistema de vendas 🛍️
 
-Projeto para processo seletivo da vaga de programador Junior na empresa Tray.
+Projeto para processo seletivo da vaga de programador Júnior na empresa Tray.
 
 ## Indice
 * [Índice](https://github.com/Antony-Chagas/salesSystem/edit/main/README.md#indice)
@@ -14,7 +14,7 @@ Projeto para processo seletivo da vaga de programador Junior na empresa Tray.
 
 ## Descrição do Projeto 📰
 * Sistema para cadastro de vendas para vendedores.
-* Sistema desenvolvido para ajudar e facilitar o controle das vendas, podendo incluir vendas para seus respectivos vendedores, além de conseguir atualizar, visulizar e excluir vendas e vendedores.
+* Sistema desenvolvido para ajudar e facilitar o controle das vendas, podendo incluir vendas para seus respectivos vendedores, além de conseguir atualizar, visualizar e excluir vendas e vendedores.
   ![image](https://github.com/Antony-Chagas/salesSystem/assets/104728389/e7b874e8-48f2-4e88-a502-e6274d95390e)
 
 ## Tecnologias utilizadas 🖥
@@ -22,7 +22,7 @@ Projeto para processo seletivo da vaga de programador Junior na empresa Tray.
 * **PHP 8:** Foi utilizada a versão  PHP 8.2.12, utilizado para criação do do BackEnd do projeto.
 * **bootstrap:** Foi utilizada a versão 4.5, utilizado para configuração do front, deixando o sistema mais funcional e mais profissional
 * **MySQL:** Banco utilizado na aplicação.
-* **Composer:** Ultilizado para instalação do Framework laravel
+* **Composer:** Utilizado para instalação do Framework laravel
 * **Framework laravel** Foi utilizada a versão 11x.
 
 ## Funcionalidades do projeto 🛠️
@@ -46,7 +46,7 @@ Projeto para processo seletivo da vaga de programador Junior na empresa Tray.
 ~~~php
 composer create-project laravel/laravel example-app
 ~~~ 
-* Ative o servidor do laravel como o comand:
+* Ative o servidor do laravel como o comando:
 ~~~php
 php artisan serve
 ~~~
