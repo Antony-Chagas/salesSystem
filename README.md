@@ -4,7 +4,7 @@ Projeto para processo seletivo da vaga de programador Junior na empresa Tray.
 
 ## Indice
 * [Índice](#índice)
-* [Descrição do Projeto](#Descrição do Projeto) .
+* [Descrição do Projeto](https://github.com/Antony-Chagas/salesSystem/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto-)
 * Tecnologias utilizadas
 * Funcionalidades do projeto
 * Modo de usar
