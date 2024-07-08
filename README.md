@@ -7,7 +7,7 @@ Projeto para processo seletivo da vaga de programador Júnior na empresa Tray.
 * [Descrição do Projeto](https://github.com/Antony-Chagas/salesSystem/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto-)
 * [Tecnologias utilizadas](https://github.com/Antony-Chagas/salesSystem/blob/main/README.md#tecnologias-utilizadas-)
 * [Funcionalidades do projeto](https://github.com/Antony-Chagas/salesSystem/edit/main/README.md#indice)
-* [Como de usar a aplicação](https://github.com/Antony-Chagas/salesSystem/edit/main/README.md#indice)
+* [Como usar a aplicação](https://github.com/Antony-Chagas/salesSystem/edit/main/README.md#como-usar-a-aplica%C3%A7%C3%A3o-%EF%B8%8F)
 * [Banco de dados](https://github.com/Antony-Chagas/salesSystem/edit/main/README.md#indice)
 * [Paginas do projeto](https://github.com/Antony-Chagas/salesSystem/edit/main/README.md#indice)
   
